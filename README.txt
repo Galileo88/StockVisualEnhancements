@@ -4,7 +4,7 @@ This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND 
 
 Installation Instructions:
-1. Download the latest release of SVE (HR, MR, or LR version) from Spacedock
+1. Download the latest release of SVE (HR, MR, or LR version) from Github
 2. Extract StockVisualEnhancements folder into your Gamedata
 
 **DO NOT INSTALL EVE SEPERATELY, EVERYTHING IS BUNDLED IN THIS DOWNLOAD** 
