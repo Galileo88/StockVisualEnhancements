@@ -5,7 +5,12 @@ CC BY-NC-ND
 
 Installation Instructions:
 1. Download the latest release of SVE (HR, MR, or LR version) from Github
-2. Extract StockVisualEnhancements folder into your Gamedata
+2. Put StockVisualEnhancements folder into your Gamedata
+
+
+To install Snow and Geysers:
+1. Same as above, just do it AFTER you install the base mod.
+
 
 **DO NOT INSTALL EVE SEPERATELY, EVERYTHING IS BUNDLED IN THIS DOWNLOAD** 
 
