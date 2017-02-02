@@ -10,8 +10,5 @@ Change Log
 * Hopefully found a good middle ground with Laythe's atmosphere
 
 
-
-
-
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
 CC BY-NC-ND
