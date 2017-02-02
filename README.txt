@@ -1,4 +1,4 @@
-#SVE Stock Visual Enhancements.
+#SVE Stock Visual Enhancements
 
 Download the All-In-One version. The version that is separated is for CKAN only
 
