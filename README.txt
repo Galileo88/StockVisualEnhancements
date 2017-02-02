@@ -3,14 +3,14 @@
 Download the All-In-One version. The version that is separated is for CKAN only
 
 Change Log
-#SVE 1.1.5
+#SVE 1.1.6
 
-* New cloud Texture for Jool with simulated tilt.
-* New Jool rin texture
-* Snow on Kerbin and geysers on Eeloo are now included by default
-* Better snow particle 
-* Laythe's atmosphere is no longer green/blue and now looks more like Kerbin
-* Removed Hurricane from Laythe for performance reasons.
+* Update to latest Scatterer
+* Fixed polar pinching with some textures
+* Hopefully found a good middle ground with Laythe's atmosphere
+
+
+
 
 
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
