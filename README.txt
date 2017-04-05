@@ -1,37 +1,31 @@
-#SVE Stock Visual Enhancements.
+#Stock Visual Enhancements
+**v1.2.0**
 
+**changelog**
+* Entire mod now done with Module Manager configs.
+* New Scatterer sunflare
 
+**TO INSTALL:**
+1. Drop the StockVisualEnhancements Folder into your GameData Folder
 
-Installation Instructions: Links included:
+2. **Download and install SVE Textures**
 
-1. Download and install the latest E.V.E.
+3. **Download and install Environmental Visual Enhancements
 https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases
 
+4. **Download and install the latest Module Manager**
+http://forum.kerbalspaceprogram.com/index.php?/topic/50533-121-module-manager-275-november-29th-2016-better-late-than-never/&
 
-2. Download and install my Scatterer cfgs
+5. **Download and install latest Scatterer**
+http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip122-scatterer-atmospheric-scattering-v00300-22012017/&
 
 
-3. Install latest SVE
-https://github.com/Galileo88/StockVisualEnhancements/releases 
+**Optional(recommended) mods:**
 
+* **Distant Object Enhancement**
+https://github.com/MOARdV/DistantObject/releases
 
-4. Install latest PlanetShine (Recommended)
+* **PlanetShine**
 https://mods.curse.com/ksp-mods/kerbal/224876-planetshine#t1:other-downloads
 
 
-
-5. Install latest Distant Object Enhancements (recommended)
-https://github.com/MOARdV/DistantObject/releases
-
-
-
-To install Snow and Geysers
-
-1. Same as above, just do it AFTER you install base SVE
-
-
-
-
-
-This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
-CC BY-NC-ND
