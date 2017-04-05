@@ -1,4 +1,6 @@
 #Stock Visual Enhancements
+SVE is licensed by CC BY-NC-ND
+
 **v1.2.0**
 
 **changelog**
