@@ -6,6 +6,8 @@ SVE is licensed by CC BY-NC-ND
 **changelog**
 * Separated Sun flare from Sun spikes to allow user to turn up or down the intensity of each texure.
 * Fixed some case sensitivty  issues.
+* Fixed issue when user makes change to EVE configs in the GUI it erases all MM cfgs from SVE_Settings.
+* Tweaked EVE configs for better performance on Kerbin, Laythe, and Duna
 
 **TO INSTALL:**
 1. Drop the StockVisualEnhancements Folder into your GameData Folder
