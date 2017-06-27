@@ -1,13 +1,20 @@
 #Stock Visual Enhancements
 SVE is licensed by CC BY-NC-ND
 
-**v1.2.2**
+**v1.2.4**
 
 **changelog**
-* Separated Sun flare from Sun spikes to allow user to turn up or down the intensity of each texure.
-* Fixed some case sensitivty  issues.
-* Fixed issue when user makes change to EVE configs in the GUI it erases all MM cfgs from SVE_Settings.
-* Tweaked EVE configs for better performance on Kerbin, Laythe, and Duna
+* New aurora texture
+  * Eve and Jool now have auroras.
+* Lightning on Jool and EVE
+* Fixed scatterer atmosphere issues.
+  * fixed errors in scatterer cfgs
+* Resized sun flare
+  * Most other sun flare textures will work out of the box.
+* More compatibility with OPMVO
+  * the stock planets no longer look bad when OMPVO is installed. 
+* Eve integration is turned on by default again
+
 
 **TO INSTALL:**
 1. Drop the StockVisualEnhancements Folder into your GameData Folder
@@ -15,16 +22,17 @@ SVE is licensed by CC BY-NC-ND
 2. **Download and install SVE Textures**
 https://github.com/Galileo88/StockVisualEnhancements/releases/tag/1.0
 
-3. **Download and install EnvironmentalVisualEnhancements (AnyCPU-EVE-Release, **Not the Configs**)
+3. **Download and install EnvironmentalVisualEnhancements (**Not the Configs**)
 https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases
 
 4. **Download and install latest Scatterer**
 http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip122-scatterer-atmospheric-scattering-v00300-22012017/&
 
 5. **Download and install the latest Module Manager**
-http://forum.kerbalspaceprogram.com/index.php?/topic/50533-121-module-manager-275-november-29th-2016-better-late-than-never/&
+http://forum.kerbalspaceprogram.com/index.php?/topic/50533-130-module-manager-280-may-26th-2017-better-late-than-never/
 
 
+**To replace the sun flare texture, you must replace the textures that come with SVE located in _GameData\StockVisualEnhancements\SVE_Scatterer\Sunflares\Sun_ with the textures of your choosing**
 
 
 **Optional(recommended) mods:**
