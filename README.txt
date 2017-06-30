@@ -1,19 +1,10 @@
 #Stock Visual Enhancements
 SVE is licensed by CC BY-NC-ND
 
-**v1.2.4**
+**v1.2.4.1**
 
-**changelog**
-* New aurora texture
-  * Eve and Jool now have auroras.
-* Lightning on Jool and EVE
-* Fixed scatterer atmosphere issues.
-  * fixed errors in scatterer cfgs
-* Resized sun flare
-  * Most other sun flare textures will work out of the box.
-* More compatibility with OPMVO
-  * the stock planets no longer look bad when OMPVO is installed. 
-* Eve integration is turned on by default again
+**change log**
+* Fixed supersize sun when scatterer is not installed
 
 
 **TO INSTALL:**
