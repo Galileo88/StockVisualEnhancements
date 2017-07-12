@@ -1,14 +1,16 @@
-#Stock Visual Enhancements
+# Stock Visual Enhancements
 SVE is licensed by CC BY-NC-ND
 
-**v1.2.4.1**
+**v1.2.5.0**
 
 **change log**
-* Fixed supersize sun when scatterer is not installed
+* Update for new Scatterer v0.0320
+* Removed sun flare completely. If you want a custom sun flare you will have to install one yourself
+* Duna's dust storms are no longer visible from scaled space to prevent artifacting
 
 
 **TO INSTALL:**
-1. Drop the StockVisualEnhancements Folder into your GameData Folder
+1. **Drop the StockVisualEnhancements Folder into your GameData Folder**
 
 2. **Download and install SVE Textures**
 https://github.com/Galileo88/StockVisualEnhancements/releases/tag/1.0
@@ -23,7 +25,6 @@ http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip122-scatterer-atm
 http://forum.kerbalspaceprogram.com/index.php?/topic/50533-130-module-manager-280-may-26th-2017-better-late-than-never/
 
 
-**To replace the sun flare texture, you must replace the textures that come with SVE located in _GameData\StockVisualEnhancements\SVE_Scatterer\Sunflares\Sun_ with the textures of your choosing**
 
 
 **Optional(recommended) mods:**
@@ -33,5 +34,3 @@ https://github.com/MOARdV/DistantObject/releases
 
 * **PlanetShine**
 https://mods.curse.com/ksp-mods/kerbal/224876-planetshine#t1:other-downloads
-
-
