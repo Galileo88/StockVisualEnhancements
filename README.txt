@@ -1,19 +1,17 @@
 # Stock Visual Enhancements
 SVE is licensed by CC BY-NC-ND
 
-**v1.2.5.0**
+**v1.2.6.0**
 
 **change log**
-* Update for new Scatterer v0.0320
-* Removed sun flare completely. If you want a custom sun flare you will have to install one yourself
-* Duna's dust storms are no longer visible from scaled space to prevent artifacting
+* Made Sun textures PNG for OpenGL users
 
 
 **TO INSTALL:**
 1. **Drop the StockVisualEnhancements Folder into your GameData Folder**
 
 2. **Download and install SVE Textures**
-https://github.com/Galileo88/StockVisualEnhancements/releases/tag/1.0.1
+https://github.com/Galileo88/StockVisualEnhancements/releases/tag/1.0.2
 
 3. **Download and install EnvironmentalVisualEnhancements (**Not the Configs**)
 https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases
