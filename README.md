@@ -1,10 +1,10 @@
 # Stock Visual Enhancements
 SVE is licensed by CC BY-NC-ND
 
-**v1.2.6.0**
+**v1.2.7.0**
 
 **change log**
-* Made Sun textures PNG for OpenGL users
+* Update version file to 1.3.1
 
 
 **TO INSTALL:**
