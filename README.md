@@ -1,10 +1,10 @@
 # Stock Visual Enhancements
 SVE is licensed by CC BY-NC-ND
 
-**v1.2.7.0**
+**v1.2.8.0**
 
 **change log**
-* Update version file to 1.3.1
+* Changes for dx11
 
 
 **TO INSTALL:**
