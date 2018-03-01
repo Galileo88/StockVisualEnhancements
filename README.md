@@ -1,10 +1,12 @@
 # Stock Visual Enhancements
 SVE is licensed by CC BY-NC-ND
 
-**v1.2.7.0**
+**v1.2.9.0**
 
 **change log**
-* Update version file to 1.3.1
+* Added new Jool clouds
+* New Auroras
+* Removed Sun textures. Use SVT to change those.
 
 
 **TO INSTALL:**
