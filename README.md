@@ -1,12 +1,13 @@
 # Stock Visual Enhancements
 SVE is licensed by CC BY-NC-ND
 
-**v1.2.9.0**
+**v1.3.0**
 
 **change log**
-* Added new Jool clouds
-* New Auroras
-* Removed Sun textures. Use SVT to change those.
+* Update for KSP 1.4.1
+* Implemented EVE atmospheres
+  * While not as pretty as Scatterer, it greatly improves performance.
+* Scatterer is still highly recommended, but not required.
 
 
 **TO INSTALL:**
@@ -15,19 +16,19 @@ SVE is licensed by CC BY-NC-ND
 2. **Download and install SVE Textures**
 https://github.com/Galileo88/StockVisualEnhancements/releases/tag/1.0.2
 
-3. **Download and install EnvironmentalVisualEnhancements (**Not the Configs**)
+3. **Download and install EnvironmentalVisualEnhancements** (**Not the Configs**)
 https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases
 
-4. **Download and install latest Scatterer**
-http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip122-scatterer-atmospheric-scattering-v00300-22012017/&
-
-5. **Download and install the latest Module Manager**
+4. **Download and install the latest Module Manager**
 http://forum.kerbalspaceprogram.com/index.php?/topic/50533-130-module-manager-280-may-26th-2017-better-late-than-never/
 
 
 
 
 **Optional(recommended) mods:**
+
+* **Scatterer**
+http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip122-scatterer-atmospheric-scattering-v00300-22012017/&
 
 * **Distant Object Enhancement**
 https://github.com/MOARdV/DistantObject/releases
