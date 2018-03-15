@@ -1,13 +1,10 @@
 # Stock Visual Enhancements
 SVE is licensed by CC BY-NC-ND
 
-**v1.3.0**
+**v1.3.0.1**
 
 **change log**
-* Update for KSP 1.4.1
-* Implemented EVE atmospheres
-  * While not as pretty as Scatterer, it greatly improves performance.
-* Scatterer is still highly recommended, but not required.
+* Fixes aurora texture and squiggly line in the sky.
 
 
 **TO INSTALL:**
