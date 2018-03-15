@@ -11,7 +11,7 @@ SVE is licensed by CC BY-NC-ND
 1. **Drop the StockVisualEnhancements Folder into your GameData Folder**
 
 2. **Download and install SVE Textures**
-https://github.com/Galileo88/StockVisualEnhancements/releases/tag/1.0.2
+https://github.com/Galileo88/StockVisualEnhancements/releases/tag/1.0.6
 
 3. **Download and install EnvironmentalVisualEnhancements** (**Not the Configs**)
 https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases
