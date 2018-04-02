@@ -1,10 +1,9 @@
 # Stock Visual Enhancements
 SVE is licensed by CC BY-NC-ND
 
-**v1.3.0.1**
-
 **change log**
-* Fixes aurora texture and squiggly line in the sky.
+* Made Kerbin a little more blue without scatterer installed
+* Removed miniAVC; Use full AVC for update notifications
 
 
 **TO INSTALL:**
