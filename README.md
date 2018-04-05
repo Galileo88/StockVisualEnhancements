@@ -2,8 +2,10 @@
 SVE is licensed by CC BY-NC-ND
 
 **change log**
-* Made Kerbin a little more blue without scatterer installed
-* Removed miniAVC; Use full AVC for update notifications
+* Adjusted all scatterer atmospheres (probably won't tell the difference)
+* Added clouds and scatterer support for OPM (will disable when OPMVO is installed)
+* Made atmosphere transition a little better without Scatterer installed
+* made Laythe more turquoise to differentiate more from Kerbin
 
 
 **TO INSTALL:**
