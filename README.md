@@ -32,4 +32,4 @@ http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip122-scatterer-atm
 https://github.com/MOARdV/DistantObject/releases
 
 * **PlanetShine**
-https://mods.curse.com/ksp-mods/kerbal/224876-planetshine#t1:other-downloads
+https://github.com/PapaJoesSoup/ksp-planetshine/releases
