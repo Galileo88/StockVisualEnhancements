@@ -2,10 +2,7 @@
 SVE is licensed by CC BY-NC-ND
 
 **change log**
-* Adjusted all scatterer atmospheres (probably won't tell the difference)
-* Added clouds and scatterer support for OPM (will disable when OPMVO is installed)
-* Made atmosphere transition a little better without Scatterer installed
-* made Laythe more turquoise to differentiate more from Kerbin
+* Removed extra Duna entry in Scatterer cfg. (Duna is no longer white)
 
 
 **TO INSTALL:**
