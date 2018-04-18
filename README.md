@@ -1,8 +1,14 @@
 # Stock Visual Enhancements
 SVE is licensed by CC BY-NC-ND
 
-**change log**
-* Removed extra Duna entry in Scatterer cfg. (Duna is no longer white)
+**Change Log**
+* Condensed all cloud cfgs into one to clean up the directory
+* Fixed incorrect texture name in OPM cloud cfg
+* Cloud rim no longer visible in scaled space (Thank you for the update Waz)
+  * Scatterer users will still have the rim until it updates for the latest EVE
+* Cirrus clouds on Duna
+* Adjusted all EVE atmospheres for stock and OPM
+* SVE does not nuke scatterer cfgs anymore. Will work with planet packs that add on to the stock system and provide their own visuals (Hello Extrasolar)
 
 
 **TO INSTALL:**
