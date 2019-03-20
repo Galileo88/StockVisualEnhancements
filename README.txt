@@ -1,6 +1,6 @@
 **TO INSTALL:**
 
-Drop StockVisualEnhancements Folder into your GameData folder
+Drop StockVisualEnhancements folder into your GameData folder, and merge with existing StockVisualEnhancement folder.
 
 
 
