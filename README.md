@@ -2,6 +2,8 @@
 SVE is licensed by CC BY-NC-ND
 
 **Change Log**
+* Fix for black cloud issue
+
 * Update to work with latest Scatterer
 * New Jool textures
 * No more cloud rim in scaled space
